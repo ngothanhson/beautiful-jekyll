@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Happy New Year!
 image: /img/hello_world.jpeg
 tags: [random, exciting-stuff]
 ---
